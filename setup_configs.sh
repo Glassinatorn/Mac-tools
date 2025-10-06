@@ -1,0 +1,12 @@
+# TODO:
+# - fix for nvim []
+# - fix for nvim []
+# - fix for tmux []
+# - fix for nnn []
+# - fix for sol []
+# - fix for sketchybar []
+# - fix for yabai []
+# - fix for sxhkd []
+# - fix for iterm/alakitty []
+# - fix for sbar []
+# - fix for svim []
