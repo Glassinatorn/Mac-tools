@@ -10,3 +10,4 @@
 # - fix for iterm/alakitty []
 # - fix for sbar []
 # - fix for svim []
+# - add powershell connection to test scripts on local wintop []
