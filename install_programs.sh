@@ -23,3 +23,5 @@ brew services start svim
 brew search '/font-.*-nerd-font/' | awk '{ print $1 }' | xargs -I{} brew install --cask {} || true
 # add fzf
 brew install fzf
+# add python
+brew install python3
