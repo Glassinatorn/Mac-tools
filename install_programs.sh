@@ -25,3 +25,5 @@ brew search '/font-.*-nerd-font/' | awk '{ print $1 }' | xargs -I{} brew install
 brew install fzf
 # add python
 brew install python3
+# add docker and compose
+brew install docker docker-compose
