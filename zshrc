@@ -13,7 +13,7 @@ zstyle ':completion:*' matcher-list 'm:{a-z}={A-Z}'
 setopt COMPLETE_ALIASES
 
 # aliases
-source ~/.profile
+source ~/.aliases
 
 # keybindings
 bindkey '^[[1;5C'	forward-word
